@@ -66,3 +66,5 @@ def cal():
             print("Power to be applied to: ",z)
             h = int(input("Enter the power: "))
             z = sq(z,h)
+            
+cal()
