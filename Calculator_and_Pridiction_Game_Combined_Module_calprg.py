@@ -67,7 +67,7 @@ def cal():
             h = int(input("Enter the power: "))
             z = sq(z,h)
             
-def game():    
+def prg():    
     print("----------------------------------------")
     print("|               > Levels <             |")
     print("|          > For Easy type 3 <         |")
